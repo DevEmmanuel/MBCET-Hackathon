@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "862352780066",
+    "firebase_url": "https://hackathon-1519059043469.firebaseio.com",
+    "project_id": "hackathon-1519059043469",
+    "storage_bucket": "hackathon-1519059043469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862352780066:android:f38e077faf1d0739",
+        "android_client_info": {
+          "package_name": "com.emma.hack.ada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862352780066-q8a0h6m14mdts3e977jiqb2pskqslmqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQD8R1PT0YhTMCmwpRpT-gCXFIHJcF8ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
